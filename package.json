@@ -15,11 +15,10 @@
   "author": "Matias Woloski (Auth0)",
   "license": "MIT",
   "dependencies": {
-    "xmldom": "~0.1.15",
     "ursa": "~0.8.0",
     "ejs": "~0.8.3",
     "async": "~0.2.7",
-    "xpath": "0.0.5"
+    "libxmljs": "0.8.1"
   },
   "scripts": {
     "test": "mocha"
